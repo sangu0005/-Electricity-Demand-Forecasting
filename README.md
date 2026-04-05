@@ -75,9 +75,9 @@ XGBRegressor(
 
 | Metric | Score |
 |---|---|
-| **RMSE** | *(see notebook output)* |
-| **MAE** | *(see notebook output)* |
-| **R² Score** | *(see notebook output)* |
+| **RMSE** | *175.07965552482665* |
+| **MAE** | *123.32653722857253* |
+| **R² Score** | *0.9846467164984454* |
 
 Actual vs. predicted demand is visualized across the 2024 test window.
 
